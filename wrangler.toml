@@ -1,4 +1,4 @@
-name = "go-proxy-bingai"
+name = "go-proxy-bingai-2"
 main = "worker.js"
 compatibility_date = "2024-04-29"
 workers_dev = true
